@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
+.logo {
+  width: 8.375rem;
+  height: 2.25rem;
+  fill: #e50914;
+}
+
+.sign-up {
+}
